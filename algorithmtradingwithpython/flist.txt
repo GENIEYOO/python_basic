@@ -1,0 +1,12 @@
+.git
+.ipynb_checkpoints
+algorithmtradingwithpython
+community
+JPype1-0.6.2-cp27-cp27m-win_amd64.whl
+JPype1-0.6.2-cp36-cp36m-win_amd64.whl
+KoNLPy
+pythoncodeacademy
+python_algorithm
+Untitled.ipynb
+Untitled1.ipynb
+zipf.png
